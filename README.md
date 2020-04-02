@@ -1,5 +1,8 @@
 # SWING DDoS-Generator-Project
-SWING 2020 JAN~MAR DDoS Generator project
+SWING 2020 JAN~MAR DDoS Generator project (basic form)
+
+## Foundation
+C++ Thread Pooling
 
 ## Prerequisites
 Autoset 10.7 ( to use Apache Web Server)
